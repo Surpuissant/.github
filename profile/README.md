@@ -6,7 +6,7 @@ Welcome to the official GitHub page of **Surpuissant**! We are a collective of c
 
 ### 🙋‍♀️ About Us
 
-**Surpuissant** is a dynamic collective founded by **Damien Dabernat** and **Coralie Chaffanjon**. We combine our expertise in mobile development, backend, machine learning, and graphic design to push the boundaries of creativity and technical innovation.
+**Surpuissant** is a dynamic collective. We combine our expertise in mobile development, backend, machine learning, and graphic design to push the boundaries of creativity and technical innovation.
 
 ---
 
